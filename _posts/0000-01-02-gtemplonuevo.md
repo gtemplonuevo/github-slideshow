@@ -2,7 +2,7 @@ GEM
   remote: https://rubygems.org/
   specs:
     activesupport (4.2.11.1)
-      i18n (~> 0.7)
+      something new
       minitest (~> 5.1)
       thread_safe (~> 0.3, >= 0.3.4)
       tzinfo (~> 1.1)
@@ -214,7 +214,7 @@ GEM
       jekyll-seo-tag (~> 2.1)
     minitest (5.13.0)
     multipart-post (2.1.1)
-    nokogiri (1.10.5)
+    nokogiri (1.10.8)
       mini_portile2 (~> 2.4.0)
     octokit (4.14.0)
       sawyer (~> 0.8.0, >= 0.5.3)
